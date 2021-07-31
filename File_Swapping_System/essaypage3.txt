@@ -1,0 +1,2 @@
+Till now I have studied about functions of python and how to create our own functions.
+This line is from page 3.
